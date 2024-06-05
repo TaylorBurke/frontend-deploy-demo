@@ -22,6 +22,7 @@ function Body() {
                 </ul>
                 <ul>
                     <h1>Netlify</h1>
+                    <li>New site from existing source</li>
                     <li>Connect to Repo</li>
                     <li>Deploy</li>
                 </ul>
